@@ -4,7 +4,7 @@ const Fs = require('fs');
 const Path = require('path');
 const Datas = require('./Routes/Datas')
 
-const Port = 3000;
+const Port = 80;
 
 
 ExpApp.listen(Port, ()=>{
